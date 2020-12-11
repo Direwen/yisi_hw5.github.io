@@ -1,0 +1,112 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+body{
+	background-image: url('https://cutewallpaper.org/21/dark-forest-wallpaper-1920x1080/Dark-Forest-And-Stars-Background-1920x1080-Spicesncurry.com.jpg');
+	background-size: cover;
+
+	background-repeat: no-repeat;
+	font-family: 'Roboto', sans-serif;
+}
+
+.form-container{
+	float:right;
+	margin-right:300px;
+	margin-top:44.5px;
+	width:25%;
+	background-color:#fff;
+	border-radius:2%;
+	padding:4px;
+	margin-bottom:5px;
+}
+
+.upper-section{
+	padding:20px;
+}
+
+.upper-section h3{
+	color:#000;
+	margin-bottom:15px;
+}
+
+#six-inputs{
+
+	padding:8px;
+	margin-bottom: 13px;
+	width:98%;
+	box-sizing: border-box;
+	border:none;
+	border-bottom:3px solid #cac9ca;
+	outline: none;
+	padding-left:0;
+}
+
+#six-inputs:hover ,#six-inputs:focus{
+	border-bottom:3px solid #0601fe;
+}
+
+input[type="radio"] {
+	margin-bottom: 25px;
+	margin-top: 5px;
+}
+
+#gender{
+	margin-right: 40px;
+}
+
+#sub{
+	padding:7px;
+	
+	width:98%;
+	text-align:center;
+	background-color: #0300fe;
+	color:#fff;
+	border:none;
+	border-radius:5%;
+	text-transform: uppercase;
+	
+}
+
+span{
+
+	text-align: center;
+	
+}
+
+span a{
+	text-decoration: none;
+}
+
+.icon-header{
+	margin-top:15px;
+	text-align:center;
+	margin-bottom:2px;
+}
+
+.icon-header p{
+	margin-bottom:5px;
+	font-weight: bold;
+}
+
+#icon{
+	margin-right:5px;
+
+}
+
+.fa-facebook{
+	color:#582f8c;
+}
+
+.fa-google{
+	color:#fe6b6e;
+}
+
+.fa-twitter{
+	color:#0601fe;
+}
+
+#last-content{
+	line-height: 25px;
+}
